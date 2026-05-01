@@ -1,0 +1,11 @@
+{
+  "description": "Vicente Pau's developer portfolio",
+  "repo": "https://github.com/vricardop/ReactPortfolio",
+  "owner": {
+    "username": "vricardop",
+    "email": "lotharsan@gmail.com"
+  },
+  "record": {
+    "CNAME": "reactportfolio-ey6.pages.dev"
+  }
+}
